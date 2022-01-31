@@ -5,3 +5,5 @@
 
  * How are you? or How are you doing today?
  * What is your name?
+
+ ### To run: open the index.html file in VS code and run it as a live server.
